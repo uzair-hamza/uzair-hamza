@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Muhammad Uzair Hamza 👋
 
-<!--
-**uzair-hamza/uzair-hamza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc Computer Systems Engineering** (5th Semester) — UET Peshawar, Pakistan
 
-Here are some ideas to get you started:
+## 💼 Roles
+- 🔬 **Undergraduate Research Assistant** — National Center for Big Data and Cloud Computing (NCBC), UET Peshawar
+- 🎓 **Coordinator, NAVTTC Courses** — National Center for Big Data and Cloud Computing (NCBC), UET Peshawar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills
+- C++
+- Python
+- Machine Learning
+- Deep Learning
+- Graphic Designing
+
+## 📚 Currently Learning
+- Machine Learning & Deep Learning
+- Computer Vision
+- Graphic Designing
+
+## 🏅 Courses
+- Completed many courses on Coursera
+
+## 🚀 Projects
+- Coming soon...
+
+## 📫 Contact
+- 📧 24pwcse2392@uetpeshawar.edu.pk
+- 📍 Peshawar, Pakistan

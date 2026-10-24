@@ -22,7 +22,7 @@
 - Completed many courses on Coursera
 
 ## 🚀 Projects
-- Coming soon...
+- **[Image Classifier (CNN)](https://github.com/uzair-hamza/image-classifier-cnn)** — Deep Learning + Computer Vision project: a convolutional neural network trained on CIFAR-10 that classifies images into 10 classes, 72.16% test accuracy.
 
 ## 📫 Contact
 - 📧 24pwcse2392@uetpeshawar.edu.pk

@@ -19,7 +19,14 @@
 - Graphic Designing
 
 ## 🏅 Courses
-- Completed many courses on Coursera
+- **Introduction to AI** (Specialization, Google) — [Verify](https://coursera.org/verify/specialization/OTY5XE6PIILN)
+- **Maximize Productivity With AI Tools** (Google) — [Verify](https://coursera.org/verify/90YQMHL5FBYO)
+- **Discover the Art of Prompting** (Google) — [Verify](https://coursera.org/verify/U6F42Z23LVAH)
+- **Use AI Responsibly** (Google) — [Verify](https://coursera.org/verify/JJC86NO7VZB0)
+- **Stay Ahead of the AI Curve** (Google) — [Verify](https://coursera.org/verify/V387MP0JHN1G)
+- **Python for Data Science, AI & Development** (IBM) — [Verify](https://coursera.org/verify/AOGDV5N07X3N)
+- **Python 101: Develop Your First Python Program** (Coursera Project) — [Verify](https://coursera.org/verify/HR9T8M0R82K6)
+- **Programming with C++** (Simplilearn) — [Verify](https://coursera.org/verify/ZA8DZMRMK1K8)
 
 ## 🚀 Projects
 - **[Image Classifier (CNN)](https://github.com/uzair-hamza/image-classifier-cnn)** — Deep Learning + Computer Vision project: a convolutional neural network trained on CIFAR-10 that classifies images into 10 classes, 76.24% test accuracy.

@@ -12,6 +12,7 @@
 - Machine Learning
 - Deep Learning
 - Graphic Designing
+- Project Management
 
 ## 📚 Currently Learning
 - Machine Learning & Deep Learning

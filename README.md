@@ -34,6 +34,7 @@
 - **[Image Classifier (CNN)](https://github.com/uzair-hamza/image-classifier-cnn)** — Deep Learning + Computer Vision project: a convolutional neural network trained on CIFAR-10 that classifies images into 10 classes, 76.24% test accuracy.
 - **[Plant Disease Detection](https://github.com/uzair-hamza/plant-disease-detection)** — Deep Learning + Computer Vision project: a CNN trained on PlantVillage (54,303 leaf photos, 38 classes) that detects plant disease from a leaf photo, 94.57% validation accuracy.
 - **[Graphic Design Projects](https://github.com/uzair-hamza/graphic-design-projects)** — Logo sets, thumbnails, social posts, infographics, and app UI designs.
+- **[Credit Card Fraud Detection](https://github.com/uzair-hamza/credit-card-fraud-detection)** — Machine Learning project: Random Forest fraud detection on 284,807 transactions, F1 0.838.
 
 ## 📫 Contact
 - 📧 24pwcse2392@uetpeshawar.edu.pk

@@ -35,6 +35,7 @@
 - **[Plant Disease Detection](https://github.com/uzair-hamza/plant-disease-detection)** — Deep Learning + Computer Vision project: a CNN trained on PlantVillage (54,303 leaf photos, 38 classes) that detects plant disease from a leaf photo, 94.57% validation accuracy.
 - **[Graphic Design Projects](https://github.com/uzair-hamza/graphic-design-projects)** — Logo sets, thumbnails, social posts, infographics, and app UI designs.
 - **[Credit Card Fraud Detection](https://github.com/uzair-hamza/credit-card-fraud-detection)** — Machine Learning project: Random Forest fraud detection on 284,807 transactions, F1 0.838.
+- **[Chatbot](https://github.com/uzair-hamza/chatbot)** — Machine Learning project: UET student FAQ chatbot, TF-IDF + Logistic Regression, 68.97% held-out accuracy.
 
 ## 📫 Contact
 - 📧 24pwcse2392@uetpeshawar.edu.pk
